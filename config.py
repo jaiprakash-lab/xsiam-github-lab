@@ -1,0 +1,3 @@
+AWS_ACCESS_KEY_ID = "AKIAEXAMPLE123456"
+AWS_SECRET_ACCESS_KEY = "super-secret-test-key"
+GITHUB_TOKEN = "ghp_1234567890abcdefghijklmnop"
